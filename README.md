@@ -1,2 +1,3 @@
 # TransitNow
-![alt text](./image/Group%201.png)
+# logo 
+![TransitLogo](./image/Group%201.png)
