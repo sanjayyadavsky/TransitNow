@@ -1,2 +1,2 @@
 # TransitNow
-![alt text](TransitNow-1/image)
+![alt text](./image/Group%201.png)
